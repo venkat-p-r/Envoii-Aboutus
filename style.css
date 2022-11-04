@@ -1238,7 +1238,7 @@ ul {
 }
 .rs-counter-style7 .rs-counter-list .icon-part i:before {
   font-size: 60px;
-  color: #ff3115;
+  color: #394da2;
 }
 .rs-counter-style7 .rs-counter-list .text-part .counter-number {
   font-size: 60px;
@@ -1262,7 +1262,7 @@ ul {
 }
 .rs-counter-style8 .rs-counter-list .icon-part i:before {
   font-size: 60px;
-  color: #ff3115;
+  color: #394da2;
 }
 .rs-counter-style8 .rs-counter-list .text-part .counter-number {
   font-size: 45px;
@@ -1647,6 +1647,9 @@ ul {
   font-weight: 500;
   min-width: 170px;
   line-height: 45px;
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
   height: 45px;
   text-align: center;
   text-transform: uppercase;
@@ -1736,10 +1739,8 @@ ul {
 /* ------------------------------------
     Rs Footer
 ---------------------------------------*/
-.rs-footer {
-  color: #e8e8e8;
-  margin-top: 98px;
-}
+
+
 .rs-footer .footer-title {
   margin-bottom: 40px;
   padding-bottom: 5px;
@@ -1997,4 +1998,16 @@ ul {
   .instructor-home .rs-menu-toggle i {
     color: #394da2;
   }
+}
+
+.abouthead{
+  display:flex;
+  width:44%;
+  margin-top:2%;
+  margin-left: auto;
+  margin-right: auto;
+  height:60px;
+  border-radius: 50px;
+  background-color: #394da2;
+
 }
