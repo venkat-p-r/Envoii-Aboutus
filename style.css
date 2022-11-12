@@ -1697,6 +1697,7 @@ ul {
   text-align: center;
   bottom: 40px;
   cursor: pointer;
+  border-radius: 40px;
   display: none;
   position: fixed;
   right: 40px;
@@ -1707,6 +1708,7 @@ ul {
   height: 40px;
   font-size: 24px;
   width: 42px;
+  border-radius: 40px;
   color: #ffffff;
   line-height: 36px;
   transition: all 0.3s ease 0s;
